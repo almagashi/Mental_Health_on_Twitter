@@ -1,1 +1,3 @@
-# Mental_Health_on_Twitter
+## Mental Health on Twitter
+
+This repo includes pieces of code for my Capstone project.
