@@ -16,3 +16,6 @@ In this folder you will find all the labelled files outputted from LIWC in csv f
 
 ### Topic Modeling
 Much like in the previous folders, here you will find each dataset and their respective notebooks containing the code that performs topic modeling.
+
+# Results
+![image](https://user-images.githubusercontent.com/41328970/206332677-aa8391fc-9d9c-4db5-b6de-51120fac3e12.png)
